@@ -1,0 +1,16 @@
+fastapi>=0.128
+uvicorn[standard]==0.34.*
+celery==5.4.*
+redis==5.2.*
+sqlalchemy==2.0.*
+psycopg2-binary==2.9.*
+httpx==0.28.*
+beautifulsoup4==4.12.*
+requests==2.32.*
+dashscope==1.20.*
+pydantic-settings==2.7.*
+alembic==1.14.*
+python-dotenv==1.0.*
+lxml==5.3.*
+tavily-python>=0.7.*
+
